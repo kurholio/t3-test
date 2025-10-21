@@ -44,6 +44,7 @@ export default async function Home() {
 							{hello ? hello.greeting : "Loading tRPC query..."}
 						</p>
 					</div>
+					<p>Hello World</p>
 
 					<LatestPost />
 				</div>
